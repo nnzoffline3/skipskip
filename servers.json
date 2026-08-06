@@ -1,5 +1,6 @@
 {
   "servers": [
-    "vless://d135de24-1b7d-4ee5-91c5-2d9d4d58f5ad@159.223.79.42:40561?type=tcp&encryption=none&security=reality&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&fp=chrome&sni=www.icloud.com&sid=62b6b234&flow=xtls-rprx-vision#VIP-Server"
+    "vless://30e171bc-6234-4b75-95f8-b497d4cc5bb1@159.223.79.42:40561?type=tcp&encryption=none&security=reality&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&fp=chrome&sni=www.icloud.com&sid=62b6b234&flow=xtls-rprx-vision#VIP_7192246632_30D_10IP_30e171bc",
+    "vless://e5a7c53d-e235-4b79-ac6c-eabea1488fd7@139.59.222.20:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP_7192246632_30D_10IP_e5a7c53d"
   ]
 }
