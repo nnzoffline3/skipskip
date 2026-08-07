@@ -15,6 +15,7 @@
     "vless://1fd0699b-2d43-49e7-8b54-126d1fbf986c@gemini.naypaing.shop:443?type=ws&encryption=none&path=%2Fvip&host=gemini.naypaing.shop&security=tls&sni=gemini.naypaing.shop#VIP_7192246632_30D_10IP_1fd0699b",
     "vless://2352558a-bf91-4a8e-a81f-248f6ffcbacf@info.nnzoffline.site:443?type=ws&encryption=none&path=%2Fvip&host=info.nnzoffline.site&security=tls&sni=info.nnzoffline.site#VIP_7192246632_30D_10IP_2352558a",
     "vless://8d43145e-0806-4f6f-bc7a-1060767bfe2f@130.94.43.94:2083?security=tls&type=ws&headerType=&path=%2Fvless&host=&sni=singapore.pixel4u.site&fp=#%F0%9F%9A%80%20Marz%20%28Free_500%29%20%5BVLESS%20-%20ws%5D",
+    "vless://b6c5aa11-3bdc-4115-a135-d5d7a1fb4e12@167.99.177.101:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#V2ray-N4_AutoVPN_1786105801",
     "vless://9fad3884-7c34-4c44-a1b7-caef31bf7be4@sys.rocketmyanmar.com:443?type=tcp&encryption=none&security=reality&pbk=hUBDK_wFMaNiRBgTVwPW4ln3knk4EA6pjkJYv9anLlY&fp=chrome&sni=www.icloud.com&sid=7e8ab498cc153e&flow=xtls-rprx-vision#VIP_7192246632_30D_10IP_9fad3884",
     
     "vless://e5a7c53d-e235-4b79-ac6c-eabea1488fd7@139.59.222.20:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP_7192246632_30D_10IP_e5a7c53d"
