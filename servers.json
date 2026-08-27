@@ -17,6 +17,7 @@
     "vless://8d43145e-0806-4f6f-bc7a-1060767bfe2f@130.94.43.94:2083?security=tls&type=ws&headerType=&path=%2Fvless&host=&sni=singapore.pixel4u.site&fp=#Free",
     "vless://2b3a390a-156d-4d47-8ea1-2f442036026f@137.184.146.193:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#singapore",
+    "vless://bb5062c9-72af-4f5b-a997-a8227c433cef@68.183.188.96:8080?encryption=none&host=portal-as.ruijienetworks.com&path=%2Ftg-%40n4vpn&security=none&type=ws#Singapore",
     
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWkFWd1JvdDlBRmE0QjVRQnc5V05R@singapore1.pixel4u.site:1080#Public",
     "vless://b6c5aa11-3bdc-4115-a135-d5d7a1fb4e12@167.99.177.101:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#V2ray",
