@@ -14,8 +14,8 @@
     "vless://6b73b28b-4740-4db4-b6b8-68515212cb81@198.251.79.150:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP_7192246632_30D_10IP_6b73b28b",
     "vless://1fd0699b-2d43-49e7-8b54-126d1fbf986c@gemini.naypaing.shop:443?type=ws&encryption=none&path=%2Fvip&host=gemini.naypaing.shop&security=tls&sni=gemini.naypaing.shop#VIP_7192246632_30D_10IP_1fd0699b",
     "vless://2352558a-bf91-4a8e-a81f-248f6ffcbacf@info.nnzoffline.site:443?type=ws&encryption=none&path=%2Fvip&host=info.nnzoffline.site&security=tls&sni=info.nnzoffline.site#VIP_7192246632_30D_10IP_2352558a",
-    "vless://8d43145e-0806-4f6f-bc7a-1060767bfe2f@130.94.43.94:2083?security=tls&type=ws&headerType=&path=%2Fvless&host=&sni=singapore.pixel4u.site&fp=#%F0%9F%9A%80%20Marz%20%28Free_500%29%20%5BVLESS%20-%20ws%5D",
-    "vless://2b3a390a-156d-4d47-8ea1-2f442036026f@137.184.146.193:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#V2ray-N4_ChPost__USA_1787057199",
+    "vless://8d43145e-0806-4f6f-bc7a-1060767bfe2f@130.94.43.94:2083?security=tls&type=ws&headerType=&path=%2Fvless&host=&sni=singapore.pixel4u.site&fp=#Free",
+    "vless://2b3a390a-156d-4d47-8ea1-2f442036026f@137.184.146.193:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#singapore",
     
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWkFWd1JvdDlBRmE0QjVRQnc5V05R@singapore1.pixel4u.site:1080#%F0%9F%9A%80%20P4U-Public",
