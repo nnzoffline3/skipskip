@@ -16,7 +16,11 @@
     "vless://2352558a-bf91-4a8e-a81f-248f6ffcbacf@info.nnzoffline.site:443?type=ws&encryption=none&path=%2Fvip&host=info.nnzoffline.site&security=tls&sni=info.nnzoffline.site#VIP",
     "vless://8d43145e-0806-4f6f-bc7a-1060767bfe2f@130.94.43.94:2083?security=tls&type=ws&headerType=&path=%2Fvless&host=&sni=singapore.pixel4u.site&fp=#Free",
     "vless://2b3a390a-156d-4d47-8ea1-2f442036026f@137.184.146.193:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCakVZM3Y1MlhxcVBGUEhFTXN5UEgvekcxQnA2TXl4dDZRNytOeXY5N3g0PQ@206.189.40.108:54898?type=tcp#Vip",
+    "vless://6e766edc-cc2a-4b97-f85d-6a0de01db3cf@104.18.1.232:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=tserver.mrmcbypass.site&fp=chrome&type=ws&sni=tserver.mrmcbypass.site#vip",
+    
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#singapore",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVjZWZWxjY2pYU3FQTGYvY3dMQ2dPeUMwYVE2TVlnYmNCaVp6TE5sM1U4PQ@38.60.244.120:43616?Outline=1#Vip",
     "vless://bb5062c9-72af-4f5b-a997-a8227c433cef@68.183.188.96:8080?encryption=none&host=portal-as.ruijienetworks.com&path=%2Ftg-%40n4vpn&security=none&type=ws#Singapore",
     
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWkFWd1JvdDlBRmE0QjVRQnc5V05R@singapore1.pixel4u.site:1080#Public",
