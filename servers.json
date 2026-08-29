@@ -18,16 +18,18 @@
     "vless://2b3a390a-156d-4d47-8ea1-2f442036026f@137.184.146.193:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCakVZM3Y1MlhxcVBGUEhFTXN5UEgvekcxQnA2TXl4dDZRNytOeXY5N3g0PQ@206.189.40.108:54898?type=tcp#Vip",
     "vless://6e766edc-cc2a-4b97-f85d-6a0de01db3cf@104.18.1.232:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=tserver.mrmcbypass.site&fp=chrome&type=ws&sni=tserver.mrmcbypass.site#vip",
-    
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc@176.97.64.144:8388#singapore",
+    "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJza2lwIHNraXAiLAogICJhZGQiOiAic2xmLnFpdG8tdGVjaC5tZSIsCiAgInBvcnQiOiA4MCwKICAiaWQiOiAiNTJmZWUwMDAtOThlMS00YzRmLWI4ZDMtZmJhNTAzMTY1MTljIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAid3MiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiL1FpdG9UZWNoLyIsCiAgImhvc3QiOiAicG9ydGFsLWFzLnJ1aWppZW5ldHdvcmtzLmNvbSIKfQ==",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVjZWZWxjY2pYU3FQTGYvY3dMQ2dPeUMwYVE2TVlnYmNCaVp6TE5sM1U4PQ@38.60.244.120:43616?Outline=1#Vip",
     "vless://bb5062c9-72af-4f5b-a997-a8227c433cef@68.183.188.96:8080?encryption=none&host=portal-as.ruijienetworks.com&path=%2Ftg-%40n4vpn&security=none&type=ws#Singapore",
-    
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWkFWd1JvdDlBRmE0QjVRQnc5V05R@singapore1.pixel4u.site:1080#Public",
     "vless://b6c5aa11-3bdc-4115-a135-d5d7a1fb4e12@167.99.177.101:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#V2ray",
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#japan",
     "vless://9fad3884-7c34-4c44-a1b7-caef31bf7be4@sys.rocketmyanmar.com:443?type=tcp&encryption=none&security=reality&pbk=hUBDK_wFMaNiRBgTVwPW4ln3knk4EA6pjkJYv9anLlY&fp=chrome&sni=www.icloud.com&sid=7e8ab498cc153e&flow=xtls-rprx-vision#VIP",
-    
     "vless://e5a7c53d-e235-4b79-ac6c-eabea1488fd7@139.59.222.20:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP"
+  ],
+  "subscriptions": [
+    "https://example.com/api/v1/client/subscribe?token=abcde",
+    "https://anothersite.com/sub/free_myanmar"
   ]
 }
