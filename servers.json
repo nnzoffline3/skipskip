@@ -30,6 +30,7 @@
   ],
   "subscriptions": [
     "https://example.com/api/v1/client/subscribe?token=abcde",
+    "https://v3.nooend.me:8000/sub/S0VZRk9SLVUsMTc4NzkyNjc4MgPZ96TIXsB4",
     "https://anothersite.com/sub/free_myanmar"
   ]
 }
