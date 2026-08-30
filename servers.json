@@ -9,8 +9,6 @@
     "vless://f2c53924-984a-46ef-8900-316526eff352@202.155.12.143:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP",
     "vless://86095755-14a8-469a-920c-3140895a5370@178.128.19.181:40561?type=tcp&encryption=none&security=reality&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&fp=chrome&sni=www.icloud.com&sid=62b6b234&flow=xtls-rprx-vision#VIP",
     "vless://c194f51e-b5dc-4de1-8ff8-1794b9c5e835@167.99.30.244:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP",
-    "vless://4ff43059-1c17-4d38-9413-65a7fc526e58@195.114.193.195:40561?type=tcp&encryption=none&security=reality&pbk=Cr0bd4W4tCkntHQyZReu9uoRHgMnNJLdo5PRvsl0kAY&fp=chrome&sni=www.icloud.com&sid=62b6b234&flow=xtls-rprx-vision#VIP",
-    "vless://639db9fb-5964-4b4a-9d78-25720d1d441d@195.114.193.195:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP",
     "vless://6b73b28b-4740-4db4-b6b8-68515212cb81@198.251.79.150:443?type=tcp&encryption=none&security=reality&pbk=PYcNIJM8r9Op3euvJB2gAYbT-eRgetW5lfmTyaCn4Rg&fp=chrome&sni=www.apple.com&sid=8d080ba982db5c5e&flow=xtls-rprx-vision#VIP",
     "vless://1fd0699b-2d43-49e7-8b54-126d1fbf986c@gemini.naypaing.shop:443?type=ws&encryption=none&path=%2Fvip&host=gemini.naypaing.shop&security=tls&sni=gemini.naypaing.shop#VIP",
     "vless://2352558a-bf91-4a8e-a81f-248f6ffcbacf@info.nnzoffline.site:443?type=ws&encryption=none&path=%2Fvip&host=info.nnzoffline.site&security=tls&sni=info.nnzoffline.site#VIP",
