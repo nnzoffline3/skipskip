@@ -13,6 +13,8 @@
     "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3M2ZTUmVPVXk0OTMyZlNoaHZyMjVzcEJPOEo3VW5QQ0NSbjJ2UjBlQlFRPQ@119.59.116.169:16203?type=tcp#🇹🇭",
     "vless://7ee4cb20-c293-48c0-8ee0-de32d6bf882c@178.128.210.160:443?encryption=none&host=&path=%2Ftg-%40n4vpn&security=none&type=ws#V2ray",
     "ssconf://freejp.tiny7.me/QS84pFKxfxsB05Jbwa1jYxOaf51URMhn.json#skipskip",
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeTNoQ2Yybmh4aTcza0JRMjZlVVg2@118.27.151.192:39946/?outline=1",
+    
     "vless://1fd0699b-2d43-49e7-8b54-126d1fbf986c@gemini.naypaing.shop:443?type=ws&encryption=none&path=%2Fvip&host=gemini.naypaing.shop&security=tls&sni=gemini.naypaing.shop#VIP",
     "vless://2352558a-bf91-4a8e-a81f-248f6ffcbacf@info.nnzoffline.site:443?type=ws&encryption=none&path=%2Fvip&host=info.nnzoffline.site&security=tls&sni=info.nnzoffline.site#VIP",
     "vless://8d43145e-0806-4f6f-bc7a-1060767bfe2f@130.94.43.94:2083?security=tls&type=ws&headerType=&path=%2Fvless&host=&sni=singapore.pixel4u.site&fp=#Free",
